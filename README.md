@@ -24,7 +24,7 @@ For Linux environments, make these changes in `package.json`:
 
 1.  **Create a Gatsby site.**
 
-    TODO: Replace URL when posted to Gatsby Starters Library
+    __TODO: Replace URL when posted to Gatsby Starters Library__
     Use the Gatsby CLI to create a new site, specifying the default starter.
 
     ```shell
@@ -62,14 +62,14 @@ For Linux environments, make these changes in `package.json`:
     The Storybook site runs at `http://localhost:6006`.
 
 1.  **Deploy your website to GitHub Pages!**
-    _\*Requires a gh-pages branch in your GitHub repository by default. For custom URLs and other configurations, see [link][gatsbyghpurl]_
+    _\*Requires a gh-pages branch in your GitHub repository by default. 
+    For custom URLs and other configurations, see [link][gatsbyghpurl]_
     ```sh
     npm run deploy:github
     ```
 
 ## 🧐 What's inside?
-
-    A [Gatsby][GatsbyUrl] development environment that works out-of-the box configured with:
+   A [Gatsby][GatsbyUrl] development environment that works out-of-the box configured with:
 
 -   [Storybook][storybookurl]
 -   [Jest][jesturl]
